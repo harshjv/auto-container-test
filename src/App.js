@@ -16,12 +16,7 @@ const App = () => {
         <div>
           <a
             target="_blank"
-            href={
-              "https://twitter.com/intent/tweet?text=" +
-              shareMessage +
-              "&url=" +
-              shareLink
-            }
+            href="https://x.com/harshjv"
             class="fa-brands fa-x-twitter"
             rel="noopener noreferrer"
           >
